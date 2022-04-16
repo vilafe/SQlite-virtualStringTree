@@ -1,7 +1,7 @@
 object Form1: TForm1
   Left = 0
   Top = 0
-  Caption = 'Form1'
+  Caption = 'WylianSouza'
   ClientHeight = 479
   ClientWidth = 617
   Color = clSilver
@@ -23,16 +23,16 @@ object Form1: TForm1
   object Label2: TLabel
     Left = 432
     Top = 64
-    Width = 143
+    Width = 134
     Height = 13
-    Caption = #1042#1080#1083#1080#1072#1085' '#1057#1086#1091#1079#1072'       '#1056#1048'-571227'
+    Caption = #1042#1080#1083#1080#1072#1085' '#1057#1086#1091#1079#1072'    '#1056#1048'-571227'
   end
   object Label3: TLabel
     Left = 8
     Top = 64
-    Width = 28
+    Width = 158
     Height = 13
-    Caption = 'Email:'
+    Caption = 'Email: wyliansouzaup@gmail.com'
   end
   object VirtualStringTree1: TVirtualStringTree
     Left = 0
